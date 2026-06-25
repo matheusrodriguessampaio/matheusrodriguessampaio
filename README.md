@@ -11,4 +11,4 @@
 
 📚 Currently developing academic and personal projects to expand my skills and experience
 
-🚀 Seeking my first opportunity in the technology industry as a Developer Intern or Junior Developer
+🚀 Seeking my first opportunity in the technology industry as a Developer Intern or Junior Developer 
