@@ -3,12 +3,12 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Matheus!;Estudante+de+ADS;Desenvolvedor+Front-End;Apaixonado+por+Tecnologia" />
 </h1>
-# 👋 Olá, eu sou Matheus Rodrigues Sampaio
+# 👋 Hi, I'm Matheus Rodrigues Sampaio
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Systems Analysis and Development Student
 
-💻 Desenvolvedor Front-End
+💻 Full Stack Developer passionate about building web applications and solving real-world problems
 
-📚 Atualmente trabalhando em projetos acadêmicos e pessoais
+📚 Currently developing academic and personal projects to expand my skills and experience
 
-🚀 Buscando minha primeira oportunidade na área de tecnologia
+🚀 Seeking my first opportunity in the technology industry as a Developer Intern or Junior Developer
